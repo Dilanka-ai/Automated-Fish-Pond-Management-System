@@ -1,7 +1,7 @@
 # 🐟 Automated Fish Pond Management System
 
 An Internet of Things (IoT) solution designed to automate the monitoring and management of a fish pond environment. This system uses an ESP32 microcontroller to gather data from various sensors and publish it to a cloud-based MQTT broker, enabling real-time monitoring and remote control of pond parameters.
-
+![Your GIF Alt Text](path/to/your/video.gif)
 ## ✨ Features
 * [cite_start]**Automated Feeding**: A feeder motor is activated at preset times (8:00, 12:00, and 18:00) to ensure consistent fish feeding[cite: 129, 130, 131].
 * **Water Quality Monitoring**: The system continuously measures critical water parameters:
