@@ -1,7 +1,7 @@
 # 🐟 Automated Fish Pond Management System
 
 An Internet of Things (IoT) solution designed to automate the monitoring and management of a fish pond environment. This system uses an ESP32 microcontroller to gather data from various sensors and publish it to a cloud-based MQTT broker, enabling real-time monitoring and remote control of pond parameters.
-<img src="https://github.com/Dilanka-ai/Hydroponics-Grow-Tower-Version-1.0/blob/1ebdfef8eb7d8b9d7af4bd3b95a6211e636bf054/IMG-20231008-WA0024.jpg" 
+<img src="[https://github.com/Dilanka-ai/Hydroponics-Grow-Tower-Version-1.0/blob/1ebdfef8eb7d8b9d7af4bd3b95a6211e636bf054/IMG-20231008-WA0024.jpg](https://github.com/Dilanka-ai/Automated-Fish-Pond-Management-System/blob/1a3b42c48307669288f73ddebf0488718ef6f6bc/Klip%20Video%20Still%202025-08-20%200513pm.jpg)" 
      alt="image_alt" 
      width="350"/>
 ## ✨ Features
